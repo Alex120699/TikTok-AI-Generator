@@ -1,0 +1,9 @@
+venv311/
+venv312/
+__pycache__/
+*.pyc
+*.pyo
+outputs/
+.env
+*.egg-info/
+.DS_Store
